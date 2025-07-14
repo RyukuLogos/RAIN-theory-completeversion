@@ -8,7 +8,7 @@
 
 You can view the theory in two formats:
 
-* **[>> View the Live Web Version] (https://ryukulogos.github.io/rain-theory-completeversion/)** *For the best reading experience, view the page hosted on GitHub Pages.*
+* **[>> View the Live Web Version](https://ryukulogos.github.io/rain-theory-completeversion/)** *For the best reading experience, view the page hosted on GitHub Pages.*
 
 * **[>> Download the Static Version (PDF)](https://github.com/RyukuLogos/rain-theory-completeversion/blob/main/RAIN%20Theory_%20The%20Pre-Linguistic%20World.pdf)** *For offline reading or printing, download the PDF file directly from this repository.*
 
