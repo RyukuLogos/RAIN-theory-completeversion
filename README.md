@@ -1,7 +1,7 @@
 # RAIN Theory: The Complete Framework
 
 > RAIN Theory: A new paradigm for cognition based on rhythm. The founder has taken the conceptual framework as far as possible. This is the definitive blueprint, presented for others to build upon.
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15876279.svg)](https://doi.org/10.5281/zenodo.15876279)
 ---
 
 ## Access the Full Document
