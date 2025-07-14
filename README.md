@@ -10,7 +10,7 @@ You can view the theory in two formats:
 
 * **[>> View the Live Web Version (https://ryukulogos.github.io/rain-theory-completeversion/)** *For the best reading experience, view the page hosted on GitHub Pages.*
 
-* **[>> Download the Static Version (PDF)](./RAIN_Theory_Complete.pdf)** *For offline reading or printing, download the PDF file directly from this repository.*
+* **[>> Download the Static Version (PDF)](RAIN Theory_ The Pre-Linguistic World.pdf)** *For offline reading or printing, download the PDF file directly from this repository.*
 
 ## Core Concept
 
